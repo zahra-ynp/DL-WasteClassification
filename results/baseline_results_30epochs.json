@@ -1,0 +1,16 @@
+{
+    "model": "ResNet-50",
+    "experiment": "Baseline (No Augmentation)",
+    "test_accuracy": 89.47368421052632,
+    "best_val_accuracy": 90.23746701846966,
+    "epochs_trained": 20,
+    "final_train_loss": 0.008448116080087078,
+    "final_val_loss": 0.39293408828477067,
+    "hyperparameters": {
+        "learning_rate": 0.001,
+        "batch_size": 32,
+        "weight_decay": 0.0001,
+        "optimizer": "Adam",
+        "scheduler": "ReduceLROnPlateau"
+    }
+}
