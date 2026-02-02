@@ -1,0 +1,15 @@
+{
+  "model": "ResNet50",
+  "experiment": "With CutMix Augmentation",
+  "num_epochs_trained": 45,
+  "best_val_accuracy": 91.55672823218997,
+  "test_accuracy": 93.15789473684211,
+  "augmentations": [
+    "RandomCrop(224)",
+    "RandomHorizontalFlip(p=0.5)",
+    "RandomRotation(15)",
+    "ColorJitter(brightness=0.1, contrast=0.1, saturation=0.1, hue=0.1)",
+    "Normalize(ImageNet)",
+    "CutMix (p=0.5)"
+  ]
+}
