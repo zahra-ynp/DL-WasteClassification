@@ -1,0 +1,11 @@
+{
+  "model": "ResNet50",
+  "experiment": "Baseline (No Augmentation)",
+  "num_epochs_trained": 16,
+  "best_val_accuracy": 92.23021582733813,
+  "test_accuracy": 92.3777564717162,
+  "augmentations": [
+    "Resize(224)",
+    "Normalize(ImageNet)"
+  ]
+}
