@@ -1,6 +1,11 @@
 dataset-resized/
 dataset/
+
 best_model/
 best_model_TrashNet/
+best_model_resnet50/
+
+
 results_TrashNet/
+
 plots_TrashNet/
