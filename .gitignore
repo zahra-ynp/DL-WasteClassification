@@ -3,11 +3,14 @@ dataset/
 
 best_model/
 best_model_TrashNet/
-best_model_resnet50/
+best_model_resnet34/
 
 
 results_TrashNet/
+results_resnet34/
 
 plots_TrashNet/
+plots_resnet34/
+
 
 TACO
