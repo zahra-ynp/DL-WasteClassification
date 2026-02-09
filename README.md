@@ -1,4 +1,4 @@
-# DL-TrashNet 🗑️♻️
+# DL-WasteClassification 🗑️♻️
 
 A deep learning project for waste classification using three merged datasets with various data augmentation techniques and ResNet-50 architecture. The model is validated on real-world images using the TACO dataset and includes explainability analysis through Grad-CAM visualization.
 
